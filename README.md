@@ -7,7 +7,7 @@ Administradora de formação migrando para a área de desenvolvimento com foco e
 # Entre em contato comigo:
 
 <p> 
-<a href="www.linkedin.com/in/beatrizsoares-dev" taget="_blank" />  
+<a href="www.linkedin.com/in/beatrizsoares-dev" />  
  <img width="80" alt="Image" src="https://github.com/user-attachments/assets/94b2f9cf-1394-4e62-9e0a-eeef4ad45e01" />
 
 <a href="https://www.instagram.com/ei.beas" /> 
